@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b3ac425d.css",
-    "main.js": "/react-gh-pages/static/js/main.9232e774.js",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/user-solid.svg": "/react-gh-pages/static/media/user-solid.b5a93b75482006a021e0945870345ea5.svg",
-    "main.b3ac425d.css.map": "/react-gh-pages/static/css/main.b3ac425d.css.map",
-    "main.9232e774.js.map": "/react-gh-pages/static/js/main.9232e774.js.map"
+    "main.css": "/knockout-tournament/static/css/main.b3ac425d.css",
+    "main.js": "/knockout-tournament/static/js/main.41cb0885.js",
+    "index.html": "/knockout-tournament/index.html",
+    "static/media/user-solid.svg": "/knockout-tournament/static/media/user-solid.b5a93b75482006a021e0945870345ea5.svg",
+    "main.b3ac425d.css.map": "/knockout-tournament/static/css/main.b3ac425d.css.map",
+    "main.41cb0885.js.map": "/knockout-tournament/static/js/main.41cb0885.js.map"
   },
   "entrypoints": [
     "static/css/main.b3ac425d.css",
-    "static/js/main.9232e774.js"
+    "static/js/main.41cb0885.js"
   ]
 }
