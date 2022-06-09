@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/knockout-tournament/static/css/main.8b5547f9.css",
-    "main.js": "/knockout-tournament/static/js/main.b3950cef.js",
+    "main.css": "/knockout-tournament/static/css/main.102df749.css",
+    "main.js": "/knockout-tournament/static/js/main.959deada.js",
     "index.html": "/knockout-tournament/index.html",
-    "main.8b5547f9.css.map": "/knockout-tournament/static/css/main.8b5547f9.css.map",
-    "main.b3950cef.js.map": "/knockout-tournament/static/js/main.b3950cef.js.map"
+    "main.102df749.css.map": "/knockout-tournament/static/css/main.102df749.css.map",
+    "main.959deada.js.map": "/knockout-tournament/static/js/main.959deada.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b5547f9.css",
-    "static/js/main.b3950cef.js"
+    "static/css/main.102df749.css",
+    "static/js/main.959deada.js"
   ]
 }
