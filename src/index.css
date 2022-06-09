@@ -1,9 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: #f1faee;
     box-sizing: border-box;
     font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+body{
+    background-color: #f1faee;
 }
 
 .app-container {
@@ -64,7 +67,7 @@
 
 /* Add Card Styles */
 
-.add-card-button, .name-input{
+.form-button, .name-input{
     margin: 20px 30px 40px 30px;
     width: 200px;
     height: 40px;
@@ -73,7 +76,7 @@
     font-size: 20px;
 }
 
-.add-card-button{
+.form-button{
     background-color: #1d3557;
 }
 
