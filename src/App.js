@@ -21,8 +21,8 @@ export default function App() {
 		]);
 	}
 
-	function eliminatePlayer(name) {
-		setPlayers((prevPlayers) => prevPlayers.filter((player) => player.name !== name));
+	function eliminatePlayer(delete_player) {
+		setPlayers((prevPlayers) => prevPlayers.filter((player) => player.id !== delete_player.id));
 	}
 
     React.useEffect(() => {
